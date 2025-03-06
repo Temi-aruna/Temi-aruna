@@ -1,14 +1,10 @@
-# Hello, I'm Temiloluwa
+# Hello, I'm Temiloluwa!
 <a href="https://www.linkedin.com/in/temiloluwa-aruna-a42815225/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an upcoming graduate with a passionate interest in IT, Data Science and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a Customer Service driven I.T and data science enthusiast with a background in incident response, risk mitigation, and community leadership built through various roles. I am very adept at problem-solving, crisis management, and team collaboration, and I am committed to transitioning into the IT industry, preferably in the world of Ethical Hacking. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
