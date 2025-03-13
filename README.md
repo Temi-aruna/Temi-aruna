@@ -1,73 +1,65 @@
-# Hello, I'm Temiloluwa!
-<a href="https://www.linkedin.com/in/temiloluwa-aruna-a42815225/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# <p align="center">Hey there! I'm Temiloluwa</p>
 
-I am an upcoming graduate with a passionate interest in IT and Data Science, and a dedication to solving complex problems.
+## About Me
 
-## Objective
-I am a Customer Service driven I.T and data science enthusiast with a background in incident response, risk mitigation, and community leadership built through various roles. I am very adept at problem-solving, crisis management, and team collaboration, and I am committed to transitioning into the IT industry, preferably in the world of Ethical Hacking. 
+- 💻 **Pushing the boundaries of cybersecurity and AI to find solutions to new problems and safeguard systems**
+- 🧳 **Currently searching for roles in SOC, Penetration Testing, or Cloud Security**
+- 🚀 **Committed to continuous personal and professional development**
+- ✉️ **[Feel free to shoot me a message via LinkedIn](https://www.linkedin.com/in/temiloluwa-aruna-a42815225/)**
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠 Tech Stack
 
-### Scripting / Analytics
+### 👨‍💻 Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white"/>
-     <img src="https://img.shields.io/badge/-Bash-1679A7?&style=for-the-badge&logo=Bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/-R-1679A7?&style=for-the-badge&logo=R&logoColor=white" />
-       <img src="https://img.shields.io/badge/-SQL-1679A7?&style=for-the-badge&logo=SQL&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNUBash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Powershell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-### PenTesting
+### 🧰 Software, Tools, and Frameworks
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali Linux-777BB4?&style=for-the-badge&logo=Kali Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-777BB4?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rapid7-777BB4?&style=for-the-badge&logo=Rapid7&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp Suite-777BB4?&style=for-the-badge&logo=Burp Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Proofpoint-777BB4?&style=for-the-badge&logo=Proofpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-4E1B1A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Proofpoint-00539F?&style=for-the-badge&logo=Proofpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CrowdStrike-E21E26?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rapid7-FF8000?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Chronicle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zscaler-0066CC?&style=for-the-badge&logo=Zscaler&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysmon-2F4F4F?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-019733?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-1F4F8D?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF7139?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
 
-### SIEM
+### 🎯 IT
 <div>
-    <img src="https://img.shields.io/badge/-Chronicle-0078D4?&style=for-the-badge&logo=Chronicle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zscaler-777BB4?&style=for-the-badge&logo=Zscaler&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Remote_Desktop_Support-00539F?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Technical_Documentation-5A5A5A?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Office_Suite-D83B01?&style=for-the-badge&logo=MicrosoftOffice&logoColor=white" />
 </div>
 
-### IT 
+## 📜 Certification
 <div>
-    <img src="https://img.shields.io/badge/-Remote Desktop Support-777BB4?&style=for-the-badge&logo=Remote Desktop Support&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active Directory-777BB4?&style=for-the-badge&logo=Active Directory&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Troubleshooting-777BB4?&style=for-the-badge&logo=Troubleshooting&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ServiceNow-777BB4?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft Office Suite-777BB4?&style=for-the-badge&logo=Microsoft Office Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Technical Documentation-777BB4?&style=for-the-badge&logo=Technical Documentation&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🏆 Projects
+- **Home Lab for Malware Detection and Telemetry**
+- **SOC Automation Project**
+- **Active Directory Project**
+- **SOAR EDR Project**
