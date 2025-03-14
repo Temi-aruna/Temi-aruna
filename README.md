@@ -11,6 +11,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Malware Detection & Analysis Using Sysmon and Splunk | Home Lab for Malware Detection |
+| Network Scanning with nmap                    | Home Lab for Malware Detection |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
