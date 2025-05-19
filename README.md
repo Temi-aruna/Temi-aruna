@@ -62,5 +62,4 @@
 
 ## 🏆 Projects
 - **Home Lab for Malware Detection and Telemetry**
-- **Phishing URL Project**
 - **SOC Automation Project**
