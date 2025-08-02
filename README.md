@@ -59,7 +59,7 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 ## 🏆 Projects
 
 - **[Home Lab for Malware Detection and Telemetry](https://github.com/Temi-aruna/Home-Lab-for-Malware-Detection-and-Telemetry)**  
-  *Built a Windows-based lab with Sysmon + Splunk to detect and analyze simulated malware behavior.*  
+  *Built a Windows-based lab to detect and analyze simulated malware behavior.*  
 
 - **[SOC Automation Project](#)**  
   *Developed automated workflows using Shuffle SOAR and TheHive to triage and respond to incidents faster.*  
