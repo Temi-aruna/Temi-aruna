@@ -1,10 +1,8 @@
 # <p align="center">👋 Hey there! I'm Temiloluwa</p>
 
-## 🚀 About Me
+## 🚀 About Me  
 
-From the moment I realized that every piece of data tells a story, I’ve been passionate about protecting, analyzing, and securing that data.  
-
-I'm dedicated to exploring the intersection of cybersecurity, data analysis, and AI to:  
+Dedicated to exploring the intersection of cybersecurity, data analysis, and AI to:  
 - Build detection workflows that identify and respond to threats  
 - Create automated SOC solutions for faster incident response  
 - Experiment with AI-driven security to stay ahead of evolving threats
