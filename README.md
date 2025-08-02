@@ -15,11 +15,11 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 
 | Skill/Focus                                       | Associated Project/Experience        |
 |---------------------------------------------------|--------------------------------------|
-| **Threat Detection & Security Data Analysis**     | SOC Automation Lab, Splunk Dashboards |
-| **Malware Analysis & Log Telemetry**              | Home Lab for Malware Detection        |
-| **Security Automation & SOAR Workflows**          | SOC Automation Lab                    |
-| **Cloud & Active Directory Security**             | Active Directory Project              |
-| **Data Analysis & Visualization (Python, SQL, Power BI)** | Security Data Dashboards        |
+| Threat Detection & Security Data Analysis         | [SOC Automation Lab](#) |
+| Malware Analysis & Log Telemetry                  | [Home Lab for Malware Detection](https://github.com/Temi-aruna/Home-Lab-for-Malware-Detection-and-Telemetry) |
+| Security Automation & SOAR Workflows              | [SOC Automation Lab](#) |
+| Cloud & Active Directory Security                 | [Active Directory Project](#) |
+| Data Analysis & Visualization (Python, SQL, Power BI) | [Security Data Dashboards](#) |
 
 ---
 
@@ -58,7 +58,7 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 
 ## 🏆 Projects
 
-- **[Home Lab for Malware Detection and Telemetry](#)**  
+- **[Home Lab for Malware Detection and Telemetry](https://github.com/Temi-aruna/Home-Lab-for-Malware-Detection-and-Telemetry)**  
   *Built a Windows-based lab with Sysmon + Splunk to detect and analyze simulated malware behavior.*  
 
 - **[SOC Automation Project](#)**  
@@ -82,3 +82,4 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 💼 [LinkedIn](https://www.linkedin.com/in/temiloluwa-aruna-a42815225/)  
 📂 [GitHub Projects](https://github.com/Temi-aruna)  
 
+*"Building the future of data security, one lab at a time."*
