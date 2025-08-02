@@ -16,7 +16,7 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 | Skill/Focus                                       | Associated Project/Experience        |
 |---------------------------------------------------|--------------------------------------|
 | Threat Detection & Security Data Analysis         | [SOC Automation Lab](#) |
-| Malware Analysis & Log Telemetry                  | [Home Lab for Malware Detection](https://github.com/Temi-aruna/Home-Lab-for-Malware-Detection-and-Telemetry) |
+| Malware Analysis                                  | [Home Lab for Malware Detection](https://github.com/Temi-aruna/Home-Lab-for-Malware-Detection-and-Telemetry) |
 | Security Automation & SOAR Workflows              | [SOC Automation Lab](#) |
 | Cloud & Active Directory Security                 | [Active Directory Project](#) |
 | Data Analysis & Visualization (Python, SQL, Power BI) | [Security Data Dashboards](#) |
