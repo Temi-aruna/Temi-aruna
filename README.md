@@ -80,5 +80,3 @@ I'm dedicated to exploring the intersection of cybersecurity, data analysis, and
 ## 🌐 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/temiloluwa-aruna-a42815225/)  
-
-*"Building the future of data security, one lab at a time."*
