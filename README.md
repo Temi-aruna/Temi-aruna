@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm Temiloluwa</p>
 
 ## 🚀 About Me  
-Junior Data Analyst, passionate about turning **raw data into actionable insights**.  
+Junior Data Scientist, passionate about turning **raw data into actionable insights**.  
 - Building ETL pipelines and dashboards for business and security data.  
 - Analyze trends, KPIs, and patterns using SQL, Python, and BI tools.  
 - Deliver data-driven recommendations for decision-making. 
