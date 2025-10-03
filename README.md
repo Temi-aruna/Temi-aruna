@@ -33,9 +33,6 @@ Data Analyst, passionate about turning **raw data into actionable insights to he
 - **[Sales & Security Data Dashboard](#)**  
   *Built an end-to-end ETL pipeline: extracted log and sales data → cleaned & aggregated in SQL/Pandas → created interactive dashboards in Power BI to highlight trends and KPIs.*  
 
-- **[Active Directory Data Monitoring Lab](#)**  
-  *Simulated AD attacks, collected logs, and transformed them into analyzable datasets; visualized access patterns and anomalies in Splunk dashboards.*  
-
 ---
 
 ## 📜 Certifications & Learning  
