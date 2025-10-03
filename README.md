@@ -30,7 +30,7 @@ Data Analyst, passionate about turning **raw data into actionable insights to he
 
 ## 🏆 Portfolio Projects  
 
-- **[Data Warehouse and Analytics Project](https://github/com/Temi-aruna/sql-data-warehouse-project)**  
+- **[Data Warehouse and Analytics Project](https://github.com/Temi-aruna/sql-data-warehouse-project)**  
   Developed a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ---
