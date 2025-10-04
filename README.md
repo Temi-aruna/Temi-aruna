@@ -1,18 +1,16 @@
 # <p align="center">👋 Hi, I'm Temiloluwa</p>
 
 ## 🚀 About Me  
-Data Analyst, passionate about turning **raw data into actionable insights to help businesses answer important questions**.  
-- Building ETL pipelines and dashboards for business and security data.  
-- Analyze trends, KPIs, and patterns using SQL, Python, and BI tools.  
-- Deliver data-driven recommendations for decision-making. 
+Passionate about turning **raw data into clean, actionable insights that drive strategy and business decisions.**.  
 
 ---
 
 ## 🎯 Current Focus  
-- **SQL & ETL workflows** → designing clean data pipelines for reporting  
-- **Python & Pandas** → data cleaning, aggregation, and feature engineering  
-- **Dashboards** → Power BI, Tableau, and Excel for interactive visualizations  
-- **Finance & business metrics** → transforming data into insights that drive strategy  
+- **SQL & ETL workflows** → designing scalable, clean data pipelines for reporting and analytics
+- **Python & PySpark / Pandas** → data cleaning, transformation, and aggregation for large datasets 
+- **Dashboards & Visualization** → Power BI, Tableau, Excel for interactive business insights
+- **Modern Data Stack & Cloud** → working with Databricks, dbt, Delta Lake, and cloud data platforms (Azure / AWS)
+- **Business & Finance Metrics** → transforming raw data into actionable insights that drive decision-making
 
 ---
 
@@ -20,11 +18,11 @@ Data Analyst, passionate about turning **raw data into actionable insights to he
 
 | Area | Tools & Tech |
 |------|--------------|
-| **Data Analysis & Programming** | SQL (ETL, complex queries), Python (Pandas, NumPy), R, Excel, Power BI, Tableau, Jupyter |
+| **Data Engineering & Processing** | Databricks, PySpark, dbt, SQL Server, Azure Data Factory, Apache Airflow, Delta Lake |
+| **Data Analysis & Programming** | SQL (ETL, complex joins, window functions), Python (Pandas, NumPy)|
 | **Data Visualization** | Power BI, Tableau, Excel dashboards, Plotly, Matplotlib |
-| **Cybersecurity & Data Sources** | Splunk, Sysmon, Atomic Red Team, CrowdStrike, Proofpoint, Zscaler |
-| **Cloud & Platforms** | Azure, AWS |
-| **Other** | Git, Bash, ServiceNow, Team Collaboration |
+| **Cloud & Platforms** | Azure (Synapse, Storage, Data Lake), AWS (S3, Glue), Azure Databricks |
+| **Other** | Git. Bash, GitHub Actions, Team Collaboration Tools (Teams, Slack, Jira) |
 
 ---
 
